@@ -25,4 +25,4 @@ Then enable **Emoji Picker**. That's it — the 😊 button appears in every com
 
 ## License
 
-MIT © Ernest DeFoe
+MIT © Convoro

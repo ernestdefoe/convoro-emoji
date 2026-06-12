@@ -110,7 +110,7 @@
   }
 
   window.Convoro.registerSlot('composer:toolbar', {
-    ext: 'ernestdefoe-emoji',
+    ext: 'convoro-emoji',
     order: 5,
     mount: function (el, ctx) {
       injectStyles();
